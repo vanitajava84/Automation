@@ -8,6 +8,7 @@ public class LoginSteps {
     @Given("user is on the login page")
     public void userIsOnTheLoginPage() {
         System.out.println("user is on the login page");
+        System.out.println("first Github commit code");
     }
     @When("user enters valid credentials")
     public void userEntersValidCredentials() {
