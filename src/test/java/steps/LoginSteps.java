@@ -16,6 +16,8 @@ public class LoginSteps {
     @Then("user should be navigated to the home page")
     public void userShouldBeNavigatedToTheHomePage() {
         System.out.println("user should be navigated to the home page");
+         System.out.println("This demo for github"); 
     }
 }
+
 
